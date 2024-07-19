@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Para evitar que a largura dos componentes seja alterado pelo navegador */
+* {
+  min-width: 0
+}
+
+input {
+  color-scheme: dark
+}
