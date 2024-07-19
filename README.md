@@ -15,11 +15,11 @@ O Plann.er é um aplicativo web que permite que os usuários criem eventos e age
 Para rodar o projeto localmente, siga os passos abaixo:
 1. Clone o repositório:
 ```
-git clone https://github.com/mebbecke/plann.er-nlw-journey.git
+git clone https://github.com/mebbecke/plann.er-nlw.git
 ```
 2. Entre na pasta do projeto:
 ```
-cd plann.er-nlw-journey
+cd plann.er-nlw
 ```
 3. Entre na pasta /backend, instale as dependências do projeto e rode o projeto:	
 ```
